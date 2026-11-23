@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DialeCH
 - 👀 I’m interested in soccer and programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JS and Python
 
 <!---
 DialeCH/DialeCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
